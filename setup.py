@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.community.TokyoTyrant'
 VERSION = '1.0'
 AUTHOR = 'B Maqueira'
-LICENSE = 'GPLv2'
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.TokyoTyrant']
 INSTALL_REQUIRES = []
